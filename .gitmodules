@@ -4,8 +4,8 @@
 	branch = main
 [submodule "extension-ci-tools"]
 	path = extension-ci-tools
-	url = git@github.com:cwida/extension-ci-tools.git
-	branch = main
+	url = git@github.com:carlopi/extension-ci-tools.git
+	branch = ext_only_0
 [submodule "duckdb"]
 	path = duckdb
 	url = git@github.com:duckdb/duckdb.git
